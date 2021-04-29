@@ -3,6 +3,6 @@
 Wir haben PHP mit dem Framework Laravel genutzt.
 Das inkludiert man so: 
 
-'''php
+```php
 include blubb
-'''
+```
