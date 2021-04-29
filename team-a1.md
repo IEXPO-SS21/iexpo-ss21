@@ -2,4 +2,7 @@
 
 Wir haben PHP mit dem Framework Laravel genutzt.
 Das inkludiert man so: 
-'''include blubb
+
+'''php
+include blubb
+'''
