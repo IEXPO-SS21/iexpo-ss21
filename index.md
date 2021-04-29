@@ -1,8 +1,3 @@
-## Willkommen bei der Vorstellung von Team 1-1
+## Willkommen bei der Vorstellung der Projekte von WEB im SS21
 
-Wir haben dieses Semester die Web-App "Willkommen in Mannheim" erstellt.
-
-Dafür haben wir
-- Node.js
-- HTML5/CSS/Javascript
-genutzt.
+### [Vorstellung von Team A-1](https://iexpo-ss21.github.io/iexpo-ss21/team-a1)
