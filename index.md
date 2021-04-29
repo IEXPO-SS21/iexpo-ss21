@@ -1,9 +1,5 @@
-## Willkommen bei der Vorstellung der Projekte von WEB im SS21
+# Herzlich Willkommen zur digitalen iExpo der Fakultät für Informatik! 
 
-### [Vorstellung von Team A-1](https://iexpo-ss21.github.io/iexpo-ss21/team-a1)
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. 
 
-Hier steht unser Kurztext blablabla
-
-### Vorstellung von Team A-2
-
-etc...
+# 1. [WEB - Dopatka](https://iexpo-ss21.github.io/iexpo-ss21/web-menu/)
